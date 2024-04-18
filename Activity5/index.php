@@ -54,7 +54,7 @@
 
       <div class="carousel-inner">
         <div class="item active">
-          <img src="/3BSCS-2/Activity5/pic/cat.jpg" width="1000px">
+          <img src="/Activity5/pic/cat.jpg" width="1000px">
           <div class="carousel-caption">
             <h3>A pretty cat</h3>
             <p>A picture of a cat taken from Google</p>
@@ -62,7 +62,7 @@
         </div>
 
         <div class="item">
-          <img src="/3BSCS-2/Activity5/pic/dog.jpg" width="1000px">
+          <img src="/Activity5/pic/dog.jpg" width="1000px">
           <div class="carousel-caption">
             <h3>A Cute dog</h3>
             <p>A picture of a dog taken from Google</p>
@@ -70,7 +70,7 @@
         </div>
 
         <div class="item">
-          <img src="/3BSCS-2/Activity5/pic/lion.jpg" width="1000px">
+          <img src="/Activity5/pic/lion.jpg" width="1000px">
           <div class="carousel-caption">
             <h3>A proud lion</h3>
             <p>A picture of a lion taken from Google</p>
