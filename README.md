@@ -1,3 +1,4 @@
-# PHP_Activities
+# WebSite_Activities
 
-A compilation of PHP exercises
+A website development exercise
+
